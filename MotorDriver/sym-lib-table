@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name doplnky)(type Legacy)(uri /home/derak/projekty/elektro/MotorDriver/doplnky.lib)(options "")(descr ""))
+)

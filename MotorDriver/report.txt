@@ -1,0 +1,305 @@
+Info: Kontroluji netlist symbol pouzdra "C6:/5C1D5AA5/5C1F09CE:Capacitor_SMD:C_0805_2012Metric".
+
+Info: Kontroluji netlist symbol pouzdra "R9:/5C1D5AA5/5C1F3F2F:".
+
+Info: Kontroluji netlist symbol pouzdra "R8:/5C1D5AA5/5C1F3F23:".
+
+Info: Kontroluji netlist symbol pouzdra "C4:/5C1D59D8/5C1D96FD:Capacitor_SMD:CP_Elec_5x3".
+
+Info: Kontroluji netlist symbol pouzdra "R7:/5C1D5AA5/5C1F37EF:".
+
+Info: Kontroluji netlist symbol pouzdra "R6:/5C1D5AA5/5C1F37E3:".
+
+Info: Kontroluji netlist symbol pouzdra "R5:/5C1D5AA5/5C1F09DA:".
+
+Info: Kontroluji netlist symbol pouzdra "C5:/5C1D5AA5/5C1ECDB5:Capacitor_SMD:C_0805_2012Metric".
+
+Info: Kontroluji netlist symbol pouzdra "R4:/5C1D5AA5/5C1F09C8:".
+
+Info: Kontroluji netlist symbol pouzdra "R3:/5C1D5AA5/5C1ECAF9:".
+
+Info: Kontroluji netlist symbol pouzdra "R2:/5C1D59D8/5C1E2940:".
+
+Info: Kontroluji netlist symbol pouzdra "Q2:/5C1D5AA5/5C1F09B6:Package_TO_SOT_SMD:TO-263-7_TabPin8".
+
+Info: Kontroluji netlist symbol pouzdra "R1:/5C1D59D8/5C1DB7A3:".
+
+Info: Kontroluji netlist symbol pouzdra "J1:/5C1D5AA5/5C211358:Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork".
+
+Info: Kontroluji netlist symbol pouzdra "Q3:/5C1D5AA5/5C1F37D7:Package_TO_SOT_SMD:TO-263-7_TabPin8".
+
+Info: Kontroluji netlist symbol pouzdra "C7:/5C1D5AA5/5C1F37E9:Capacitor_SMD:C_0805_2012Metric".
+
+Info: Kontroluji netlist symbol pouzdra "D3:/5C1D59D8/5C1DB612:Diode_SMD:D_SOD-123F".
+
+Info: Kontroluji netlist symbol pouzdra "C8:/5C1D5AA5/5C1F3F29:Capacitor_SMD:C_0805_2012Metric".
+
+Info: Kontroluji netlist symbol pouzdra "C9:/5C1D5AA5/5C208DCE:Capacitor_SMD:CP_Elec_5x3".
+
+Info: Kontroluji netlist symbol pouzdra "D2:/5C1D59D8/5C1D8C6A:Diode_SMD:D_SMA".
+
+Info: Kontroluji netlist symbol pouzdra "Q4:/5C1D5AA5/5C1F3F17:Package_TO_SOT_SMD:TO-263-7_TabPin8".
+
+Info: Kontroluji netlist symbol pouzdra "D1:/5C1D59D8/5C1D8505:Diode_SMD:D_SMA".
+
+Info: Kontroluji netlist symbol pouzdra "C3:/5C1D59D8/5C1DB958:Capacitor_SMD:CP_Elec_5x3".
+
+Info: Kontroluji netlist symbol pouzdra "Q1:/5C1D59D8/5C1DB203:".
+
+Info: Kontroluji netlist symbol pouzdra "L1:/5C1D59D8/5C1D6CBC:Inductor_SMD:L_7.3x7.3_H3.5".
+
+Info: Kontroluji netlist symbol pouzdra "U2:/5C1D59D8/5C1D9688:Package_TO_SOT_SMD:SOT-89-3".
+
+Info: Kontroluji netlist symbol pouzdra "J3:/5C1D5AA5/5C211476:Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork".
+
+Info: Kontroluji netlist symbol pouzdra "C1:/5C1D59D8/5C1D6D47:Capacitor_SMD:CP_Elec_5x3".
+
+Info: Kontroluji netlist symbol pouzdra "J2:/5C1D5AA5/5C2113C8:Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork".
+
+Info: Kontroluji netlist symbol pouzdra "C2:/5C1D59D8/5C1D6D93:Capacitor_SMD:CP_Elec_5x3".
+
+Info: Kontroluji netlist symbol pouzdra "U1:/5C1D59D8/5C1D686E:Package_TO_SOT_SMD:TO-263-5_TabPin3".
+
+Info: Kontroluji netlist symbol pouzdra "R10:/5C1D5AA5/5C1F09BC:".
+
+Info: Kontroluji netlist symbol pouzdra "R12:/5C1D5AA5/5C1F3F1D:".
+
+Info: Kontroluji netlist symbol pouzdra "R11:/5C1D5AA5/5C1F37DD:".
+
+Změnit pouzdro "Q3:/5C1D5AA5/5C1F37D7" vývod "3" síť z "" na "Net-(Q3-Pad3)".
+
+Změnit pouzdro "Q2:/5C1D5AA5/5C1F09B6" vývod "7" síť z "" na "+36V".
+
+Změnit pouzdro "Q4:/5C1D5AA5/5C1F3F17" vývod "6" síť z "" na "/H můstky/I_SENSE".
+
+Změnit pouzdro "Q3:/5C1D5AA5/5C1F37D7" vývod "4" síť z "" na "Net-(J2-Pad1)".
+
+Přidat nový symbol "Q2:/5C1D5AA5/5C1F09B6" pouzdro "Package_TO_SOT_SMD:TO-263-7_TabPin8".
+
+Změnit pouzdro "Q2:/5C1D5AA5/5C1F09B6" vývod "1" síť z "" na "GND".
+
+Změnit pouzdro "Q3:/5C1D5AA5/5C1F37D7" vývod "5" síť z "" na "Net-(C7-Pad1)".
+
+Změnit pouzdro "Q3:/5C1D5AA5/5C1F37D7" vývod "6" síť z "" na "/H můstky/I_SENSE".
+
+Změnit pouzdro "Q3:/5C1D5AA5/5C1F37D7" vývod "7" síť z "" na "+36V".
+
+Změnit pouzdro "Q2:/5C1D5AA5/5C1F09B6" vývod "2" síť z "" na "Net-(Q2-Pad2)".
+
+Změnit pouzdro "Q3:/5C1D5AA5/5C1F37D7" vývod "8" síť z "" na "Net-(J2-Pad1)".
+
+Přidat nový symbol "Q3:/5C1D5AA5/5C1F37D7" pouzdro "Package_TO_SOT_SMD:TO-263-7_TabPin8".
+
+Změnit pouzdro "Q2:/5C1D5AA5/5C1F09B6" vývod "3" síť z "" na "Net-(Q2-Pad3)".
+
+Změnit pouzdro "Q2:/5C1D5AA5/5C1F09B6" vývod "4" síť z "" na "Net-(J1-Pad1)".
+
+Změnit pouzdro "Q2:/5C1D5AA5/5C1F09B6" vývod "5" síť z "" na "Net-(C6-Pad1)".
+
+Změnit pouzdro "Q2:/5C1D5AA5/5C1F09B6" vývod "6" síť z "" na "/H můstky/I_SENSE".
+
+Změnit pouzdro "Q2:/5C1D5AA5/5C1F09B6" vývod "8" síť z "" na "Net-(J1-Pad1)".
+
+Změnit pouzdro "U1:/5C1D59D8/5C1D686E" vývod "1" síť z "" na "Net-(C1-Pad1)".
+
+Změnit pouzdro "U2:/5C1D59D8/5C1D9688" vývod "2" síť z "" na "GNDD".
+
+Změnit pouzdro "U2:/5C1D59D8/5C1D9688" vývod "2" síť z "" na "GNDD".
+
+Změnit pouzdro "U2:/5C1D59D8/5C1D9688" vývod "3" síť z "" na "+5V".
+
+Změnit pouzdro "U2:/5C1D59D8/5C1D9688" vývod "2" síť z "" na "GNDD".
+
+Změnit pouzdro "U2:/5C1D59D8/5C1D9688" vývod "1" síť z "" na "+3V3".
+
+Změnit pouzdro "U2:/5C1D59D8/5C1D9688" vývod "2" síť z "" na "GNDD".
+
+Přidat nový symbol "U2:/5C1D59D8/5C1D9688" pouzdro "Package_TO_SOT_SMD:SOT-89-3".
+
+Změnit pouzdro "U1:/5C1D59D8/5C1D686E" vývod "3" síť z "" na "GNDD".
+
+Změnit pouzdro "U1:/5C1D59D8/5C1D686E" vývod "5" síť z "" na "GNDD".
+
+Změnit pouzdro "U1:/5C1D59D8/5C1D686E" vývod "4" síť z "" na "+5V".
+
+Změnit pouzdro "U1:/5C1D59D8/5C1D686E" vývod "3" síť z "" na "GNDD".
+
+Změnit pouzdro "U1:/5C1D59D8/5C1D686E" vývod "2" síť z "" na "Net-(D2-Pad1)".
+
+Změnit pouzdro "Q3:/5C1D5AA5/5C1F37D7" vývod "2" síť z "" na "Net-(Q3-Pad2)".
+
+Přidat nový symbol "U1:/5C1D59D8/5C1D686E" pouzdro "Package_TO_SOT_SMD:TO-263-5_TabPin3".
+
+Změnit pouzdro "Q4:/5C1D5AA5/5C1F3F17" vývod "8" síť z "" na "Net-(J3-Pad1)".
+
+Změnit pouzdro "Q4:/5C1D5AA5/5C1F3F17" vývod "7" síť z "" na "+36V".
+
+Změnit pouzdro "L1:/5C1D59D8/5C1D6CBC" vývod "2" síť z "" na "+5V".
+
+Změnit pouzdro "Q4:/5C1D5AA5/5C1F3F17" vývod "5" síť z "" na "Net-(C8-Pad1)".
+
+Změnit pouzdro "Q4:/5C1D5AA5/5C1F3F17" vývod "4" síť z "" na "Net-(J3-Pad1)".
+
+Změnit pouzdro "Q4:/5C1D5AA5/5C1F3F17" vývod "3" síť z "" na "Net-(Q4-Pad3)".
+
+Změnit pouzdro "Q4:/5C1D5AA5/5C1F3F17" vývod "2" síť z "" na "Net-(Q4-Pad2)".
+
+Změnit pouzdro "Q4:/5C1D5AA5/5C1F3F17" vývod "1" síť z "" na "GND".
+
+Přidat nový symbol "Q4:/5C1D5AA5/5C1F3F17" pouzdro "Package_TO_SOT_SMD:TO-263-7_TabPin8".
+
+Změnit pouzdro "Q3:/5C1D5AA5/5C1F37D7" vývod "1" síť z "" na "GND".
+
+Změnit pouzdro "C4:/5C1D59D8/5C1D96FD" vývod "1" síť z "" na "+3V3".
+
+Změnit pouzdro "C8:/5C1D5AA5/5C1F3F29" vývod "2" síť z "" na "GND".
+
+Přidat nový symbol "C8:/5C1D5AA5/5C1F3F29" pouzdro "Capacitor_SMD:C_0805_2012Metric".
+
+Změnit pouzdro "C7:/5C1D5AA5/5C1F37E9" vývod "1" síť z "" na "Net-(C7-Pad1)".
+
+Změnit pouzdro "C7:/5C1D5AA5/5C1F37E9" vývod "2" síť z "" na "GND".
+
+Přidat nový symbol "C7:/5C1D5AA5/5C1F37E9" pouzdro "Capacitor_SMD:C_0805_2012Metric".
+
+Změnit pouzdro "C6:/5C1D5AA5/5C1F09CE" vývod "1" síť z "" na "Net-(C6-Pad1)".
+
+Přidat nový symbol "C6:/5C1D5AA5/5C1F09CE" pouzdro "Capacitor_SMD:C_0805_2012Metric".
+
+Změnit pouzdro "C5:/5C1D5AA5/5C1ECDB5" vývod "2" síť z "" na "GNDD".
+
+Změnit pouzdro "C5:/5C1D5AA5/5C1ECDB5" vývod "1" síť z "" na "/H můstky/I_SENSE".
+
+Přidat nový symbol "C5:/5C1D5AA5/5C1ECDB5" pouzdro "Capacitor_SMD:C_0805_2012Metric".
+
+Změnit pouzdro "C4:/5C1D59D8/5C1D96FD" vývod "2" síť z "" na "GNDD".
+
+Změnit pouzdro "C6:/5C1D5AA5/5C1F09CE" vývod "2" síť z "" na "GND".
+
+Přidat nový symbol "C4:/5C1D59D8/5C1D96FD" pouzdro "Capacitor_SMD:CP_Elec_5x3".
+
+Změnit pouzdro "C3:/5C1D59D8/5C1DB958" vývod "2" síť z "" na "GND".
+
+Změnit pouzdro "C3:/5C1D59D8/5C1DB958" vývod "1" síť z "" na "+BATT".
+
+Přidat nový symbol "C3:/5C1D59D8/5C1DB958" pouzdro "Capacitor_SMD:CP_Elec_5x3".
+
+Změnit pouzdro "C2:/5C1D59D8/5C1D6D93" vývod "1" síť z "" na "+5V".
+
+Změnit pouzdro "C2:/5C1D59D8/5C1D6D93" vývod "2" síť z "" na "GNDD".
+
+Přidat nový symbol "C1:/5C1D59D8/5C1D6D47" pouzdro "Capacitor_SMD:CP_Elec_5x3".
+
+Přidat nový symbol "C2:/5C1D59D8/5C1D6D93" pouzdro "Capacitor_SMD:CP_Elec_5x3".
+
+Změnit pouzdro "C1:/5C1D59D8/5C1D6D47" vývod "2" síť z "" na "GNDD".
+
+Změnit pouzdro "C1:/5C1D59D8/5C1D6D47" vývod "1" síť z "" na "Net-(C1-Pad1)".
+
+Přidat nový symbol "C9:/5C1D5AA5/5C208DCE" pouzdro "Capacitor_SMD:CP_Elec_5x3".
+
+Změnit pouzdro "L1:/5C1D59D8/5C1D6CBC" vývod "1" síť z "" na "Net-(D2-Pad1)".
+
+Přidat nový symbol "L1:/5C1D59D8/5C1D6CBC" pouzdro "Inductor_SMD:L_7.3x7.3_H3.5".
+
+Změnit pouzdro "J3:/5C1D5AA5/5C211476" vývod "1" síť z "" na "Net-(J3-Pad1)".
+
+Přidat nový symbol "J3:/5C1D5AA5/5C211476" pouzdro "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork".
+
+Změnit pouzdro "J2:/5C1D5AA5/5C2113C8" vývod "1" síť z "" na "Net-(J2-Pad1)".
+
+Přidat nový symbol "J2:/5C1D5AA5/5C2113C8" pouzdro "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork".
+
+Změnit pouzdro "J1:/5C1D5AA5/5C211358" vývod "1" síť z "" na "Net-(J1-Pad1)".
+
+Přidat nový symbol "J1:/5C1D5AA5/5C211358" pouzdro "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork".
+
+Změnit pouzdro "D3:/5C1D59D8/5C1DB612" vývod "2" síť z "" na "Net-(D3-Pad2)".
+
+Změnit pouzdro "D3:/5C1D59D8/5C1DB612" vývod "1" síť z "" na "+36V".
+
+Přidat nový symbol "D3:/5C1D59D8/5C1DB612" pouzdro "Diode_SMD:D_SOD-123F".
+
+Změnit pouzdro "D2:/5C1D59D8/5C1D8C6A" vývod "1" síť z "" na "Net-(D2-Pad1)".
+
+Změnit pouzdro "D2:/5C1D59D8/5C1D8C6A" vývod "2" síť z "" na "GNDD".
+
+Změnit pouzdro "C8:/5C1D5AA5/5C1F3F29" vývod "1" síť z "" na "Net-(C8-Pad1)".
+
+Změnit pouzdro "C9:/5C1D5AA5/5C208DCE" vývod "2" síť z "" na "GND".
+
+Změnit pouzdro "C9:/5C1D5AA5/5C208DCE" vývod "1" síť z "" na "+36V".
+
+Přidat nový symbol "D2:/5C1D59D8/5C1D8C6A" pouzdro "Diode_SMD:D_SMA".
+
+Přidat nový symbol "D1:/5C1D59D8/5C1D8505" pouzdro "Diode_SMD:D_SMA".
+
+Změnit pouzdro "D1:/5C1D59D8/5C1D8505" vývod "2" síť z "" na "+BATT".
+
+Změnit pouzdro "D1:/5C1D59D8/5C1D8505" vývod "1" síť z "" na "Net-(C1-Pad1)".
+
+Chyba: Pouzdro nemá definovaný symbol "R11".
+
+
+Chyba: Pouzdro nemá definovaný symbol "R7".
+
+
+Chyba: Pouzdro nemá definovaný symbol "R2".
+
+
+Chyba: Nelze přidat nový symbol "R3:/5C1D5AA5/5C1ECAF9" kvůli chybějícímu pouzdru "".
+
+Chyba: Pouzdro nemá definovaný symbol "R3".
+
+
+Chyba: Pouzdro nemá definovaný symbol "R10".
+
+
+Chyba: Pouzdro nemá definovaný symbol "R9".
+
+
+Chyba: Pouzdro nemá definovaný symbol "R6".
+
+
+Chyba: Pouzdro nemá definovaný symbol "R4".
+
+
+Chyba: Pouzdro nemá definovaný symbol "R8".
+
+
+Chyba: Pouzdro nemá definovaný symbol "R5".
+
+
+Chyba: Pouzdro nemá definovaný symbol "R12".
+
+
+Chyba: Pouzdro nemá definovaný symbol "Q1".
+
+
+Chyba: Nelze přidat nový symbol "R12:/5C1D5AA5/5C1F3F1D" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R11:/5C1D5AA5/5C1F37DD" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R10:/5C1D5AA5/5C1F09BC" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R9:/5C1D5AA5/5C1F3F2F" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R8:/5C1D5AA5/5C1F3F23" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R7:/5C1D5AA5/5C1F37EF" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R6:/5C1D5AA5/5C1F37E3" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R5:/5C1D5AA5/5C1F09DA" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R4:/5C1D5AA5/5C1F09C8" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "Q1:/5C1D59D8/5C1DB203" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R2:/5C1D59D8/5C1E2940" kvůli chybějícímu pouzdru "".
+
+Chyba: Nelze přidat nový symbol "R1:/5C1D59D8/5C1DB7A3" kvůli chybějícímu pouzdru "".
+
+Chyba: Pouzdro nemá definovaný symbol "R1".
+
+
