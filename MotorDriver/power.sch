@@ -276,7 +276,7 @@ U 1 1 5C1D8505
 P 2700 2300
 F 0 "D1" H 2700 2084 50  0000 C CNN
 F 1 "MRA4003T3G" H 2700 2175 50  0000 C CNN
-F 2 "Diode_SMD:D_SMA" H 2700 2125 50  0001 C CNN
+F 2 "Diode_SMD:D_SMA-SMB_Universal_Handsoldering" H 2700 2125 50  0001 C CNN
 F 3 "http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF" H 2700 2300 50  0001 C CNN
 	1    2700 2300
 	-1   0    0    1   

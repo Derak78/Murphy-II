@@ -34,15 +34,15 @@ module uchyt_rameno(){
           }  
         }
         difference(){
-            translate([5,-delka_uchytu/2,5])
-                cube([30+profil_rezerva,delka_uchytu+1,30+1]);
-            translate([5+15+profil_rezerva/2-drazka/2,-delka_uchytu/2,5])
+            translate([5,-delka_uchytu/2-1,5])
+                cube([30+profil_rezerva,delka_uchytu+2,30+1]);
+            translate([5+15+profil_rezerva/2-drazka/2,-delka_uchytu/2-1,5])
                 cube([drazka,delka_uchytu+1,2]);            
         }
         
-        translate([5+15.5,15,0])
+        translate([5+15+profil_rezerva/2,15,0])
             cylinder(d=m6_dira,h=20,center = true);
-        translate([5+15.5,-15,0])
+        translate([5+15+profil_rezerva/2,-15,0])
             cylinder(d=m6_dira,h=20,center = true);
 
         translate([5+30,15,5+15])
@@ -94,12 +94,12 @@ module kloub_napravy(){
             cylinder(d=30+1,h=11);    
     }
     //mustek pro snazsi tisk
-    translate([0,0,10])
-        cylinder(d=30-6,h=vrstva);
+  //  translate([0,0,10])
+  //      cylinder(d=30-6,h=vrstva);
 } 
 
 //uchyt_rameno();
-kloub_napravy();
+//kloub_napravy();
 
 module uchyt_napravy(){
     difference(){
@@ -112,10 +112,10 @@ module uchyt_napravy(){
                 cube([drazka,delka_uchytu_napravy,7]);
             
             hull(){
-                translate([-(vyska_tela-60)/2,-delka_uchytu_napravy/2,0])
-                    cube([vyska_tela-60,delka_uchytu_napravy,5]);
-                translate([-(vyska_tela-60)/2,-(vyska_tela-60)/2,0])
-                    cube([vyska_tela-60,vyska_tela-60,30+5]);
+                translate([-(vyska_tela-60-0.6)/2,-delka_uchytu_napravy/2,0])
+                    cube([vyska_tela-60-0.6,delka_uchytu_napravy,5]);
+                translate([-(vyska_tela-60-0.6)/2,-(vyska_tela-60)/2,0])
+                    cube([vyska_tela-60-0.6,vyska_tela-60,30+5]);
             }
             
             translate([-(vyska_tela/2+30),-30/2,0])   // vertikalni cast
@@ -134,4 +134,4 @@ module uchyt_napravy(){
     }    
 }
 
-//uchyt_napravy();
+uchyt_napravy();

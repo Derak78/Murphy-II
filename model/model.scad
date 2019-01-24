@@ -41,6 +41,7 @@ module vahadlo(){
     translate([-15,(sirka_tela+52+20)/2,0])
         rotate([90,0,0])
             profil_30x5(sirka_tela+52+20);
+   // #cylinder(d=sirka_tela+52+20,h=5);
 }
 
 module telo(){
@@ -110,6 +111,7 @@ module telo(){
         translate([0,-sirka_tela/2-16-10,25])
             rotate([0,0,90])
                 kloub();
+        rotate([0,0,0])
         translate([0,0,34])
             color("Silver",1)vahadlo();
         translate([0,0,34])
@@ -183,7 +185,7 @@ module napravy(uhel){
         rotate([0,-uhel,0])
             mirror([0,1,0]) naprava();
 }
-napravy(0);
+napravy(10);
 //square([500,500],center=true);
 //square([350,250],center=true);
 //square([237,237],center=true);
@@ -203,4 +205,4 @@ module sud(){
     cylinder(d=172,h=251);
 }
 
-//translate([0,0,120])sud();
+translate([0,0,145])sud();

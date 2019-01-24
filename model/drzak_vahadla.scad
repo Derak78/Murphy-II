@@ -51,8 +51,8 @@ module kloub(){
             cylinder(d=8,h=22);
     }    
 }
-kloub();
+//kloub();
 
     
 
-//uchyt_vahadla();
+uchyt_vahadla();
