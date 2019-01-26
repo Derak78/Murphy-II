@@ -1,0 +1,21 @@
+### Module positions - created on Čt 24. ledna 2019, 13:29:08 CET ###
+### Printed by Pcbnew version kicad 5.0.2-bee76a0~70~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                                           PosX       PosY       Rot  Side
+C12       15pF        C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -119.5070   -92.0115    0.0000  bottom
+C13       100nF       C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -127.5080   -98.0440    0.0000  bottom
+C14       100nF       C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -131.3180   -96.1390  180.0000  bottom
+C15       100nF       C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -127.5080   -96.1390    0.0000  bottom
+C16       100nF       C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -134.6200  -101.5365    0.0000  bottom
+C17       15pF        C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -112.9030   -92.0115  180.0000  bottom
+C20       10n         C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -134.6200  -106.1085    0.0000  bottom
+C21       10n         C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -134.6200  -104.5210    0.0000  bottom
+C22       10n         C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -134.6200  -103.0605    0.0000  bottom
+D1        MRA4003T3G  D_SMA-SMB_Universal_Handsoldering            -108.2548  -107.4928   90.0000  bottom
+D2        PESD1CAN    TSOT-23_HandSoldering                        -107.2470   -88.1990    0.0000  bottom
+D5        MRA4003T3G  D_SMA-SMB_Universal_Handsoldering            -125.8995  -111.5060  180.0000  bottom
+R24       2k2         R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -138.1760  -106.8210  270.0000  bottom
+R25       2k2         R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -140.7160  -106.8210  270.0000  bottom
+R26       2k2         R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -143.2560  -106.8210  270.0000  bottom
+## End

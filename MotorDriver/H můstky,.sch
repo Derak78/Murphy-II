@@ -257,39 +257,6 @@ Wire Wire Line
 Wire Wire Line
 	6300 5250 6800 5250
 $Comp
-L Connector:Conn_01x01_Female J1
-U 1 1 5C211358
-P 7000 1600
-F 0 "J1" H 7027 1626 50  0000 L CNN
-F 1 "Phase A" H 7027 1535 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 7000 1600 50  0001 C CNN
-F 3 "~" H 7000 1600 50  0001 C CNN
-	1    7000 1600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x01_Female J2
-U 1 1 5C2113C8
-P 7000 3550
-F 0 "J2" H 7027 3576 50  0000 L CNN
-F 1 "Phase B" H 7027 3485 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 7000 3550 50  0001 C CNN
-F 3 "~" H 7000 3550 50  0001 C CNN
-	1    7000 3550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x01_Female J3
-U 1 1 5C211476
-P 7000 5250
-F 0 "J3" H 7027 5276 50  0000 L CNN
-F 1 "Phase C" H 7027 5185 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 7000 5250 50  0001 C CNN
-F 3 "~" H 7000 5250 50  0001 C CNN
-	1    7000 5250
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+36V #PWR0104
 U 1 1 5C410B7C
 P 9550 3200
@@ -610,4 +577,37 @@ Text Label 6600 3550 0    50   ~ 0
 OUT_B
 Text Label 6650 5250 0    50   ~ 0
 OUT_C
+$Comp
+L Mechanical:MountingHole_Pad J1
+U 1 1 5C4D0C2E
+P 6900 1600
+F 0 "J1" V 6854 1750 50  0000 L CNN
+F 1 "Phase A" V 6945 1750 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 6900 1600 50  0001 C CNN
+F 3 "~" H 6900 1600 50  0001 C CNN
+	1    6900 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad J2
+U 1 1 5C4D0F48
+P 6900 3550
+F 0 "J2" V 6854 3699 50  0000 L CNN
+F 1 "Phase B" V 6945 3699 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 6900 3550 50  0001 C CNN
+F 3 "~" H 6900 3550 50  0001 C CNN
+	1    6900 3550
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad J3
+U 1 1 5C4D103E
+P 6900 5250
+F 0 "J3" V 6854 5399 50  0000 L CNN
+F 1 "Phase C" V 6945 5399 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 6900 5250 50  0001 C CNN
+F 3 "~" H 6900 5250 50  0001 C CNN
+	1    6900 5250
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC

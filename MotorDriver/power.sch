@@ -128,7 +128,7 @@ U 1 1 5C40A6BE
 P 5050 4400
 F 0 "JP1" H 5050 4612 50  0000 C CNN
 F 1 "Jumper_NC_Small" H 5050 4521 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 5050 4400 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5050 4400 50  0001 C CNN
 F 3 "~" H 5050 4400 50  0001 C CNN
 	1    5050 4400
 	1    0    0    -1  
@@ -285,28 +285,6 @@ Wire Wire Line
 	2250 2300 2550 2300
 Wire Wire Line
 	3250 4400 3850 4400
-$Comp
-L Connector:Conn_01x01_Female J8
-U 1 1 5C466EF8
-P 2450 5750
-F 0 "J8" H 2344 5525 50  0000 C CNN
-F 1 "Vbat" H 2344 5616 50  0000 C CNN
-F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 2450 5750 50  0001 C CNN
-F 3 "~" H 2450 5750 50  0001 C CNN
-	1    2450 5750
-	-1   0    0    1   
-$EndComp
-$Comp
-L Connector:Conn_01x01_Female J9
-U 1 1 5C46711F
-P 2450 6150
-F 0 "J9" H 2344 5925 50  0000 C CNN
-F 1 "GND" H 2344 6016 50  0000 C CNN
-F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 2450 6150 50  0001 C CNN
-F 3 "~" H 2450 6150 50  0001 C CNN
-	1    2450 6150
-	-1   0    0    1   
-$EndComp
 $Comp
 L power:GNDPWR #PWR0147
 U 1 1 5C467237
@@ -518,4 +496,26 @@ Wire Wire Line
 	8500 5000 8500 4900
 Text Label 3150 2300 0    50   ~ 0
 pwrs_in
+$Comp
+L Mechanical:MountingHole_Pad J8
+U 1 1 5C4C9A30
+P 2550 5750
+F 0 "J8" V 2787 5755 50  0000 C CNN
+F 1 "BAT+" V 2696 5755 50  0000 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 2550 5750 50  0001 C CNN
+F 3 "~" H 2550 5750 50  0001 C CNN
+	1    2550 5750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad J9
+U 1 1 5C4C9ACE
+P 2550 6150
+F 0 "J9" V 2787 6155 50  0000 C CNN
+F 1 "GND" V 2696 6155 50  0000 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 2550 6150 50  0001 C CNN
+F 3 "~" H 2550 6150 50  0001 C CNN
+	1    2550 6150
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
