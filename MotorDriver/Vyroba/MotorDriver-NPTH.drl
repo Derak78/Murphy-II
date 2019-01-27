@@ -1,16 +1,10 @@
 M48
-;DRILL file {KiCad 5.0.2-bee76a0~70~ubuntu18.04.1} date Čt 24. ledna 2019, 16:52:45 CET
+;DRILL file {KiCad 5.0.2-bee76a0~70~ubuntu18.04.1} date So 26. ledna 2019, 12:58:37 CET
 ;FORMAT={-:-/ absolute / inch / decimal}
 FMAT,2
 INCH,TZ
-T1C0.1260
 %
 G90
 G05
-T1
-X4.02Y-3.11
-X7.97Y-4.31
-X7.97Y-3.11
-X4.02Y-4.31
 T0
 M30
